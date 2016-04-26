@@ -9,7 +9,7 @@ var products =[
 //Arrey of prices//
 var prices =[10, 10, 199,159];
 
-var custormerName = "kelly" ;
+var custormerName = "Bello Doro" ;
 //product list //
 var productsText ="";
 //empty string to add the product list //
